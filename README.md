@@ -6,4 +6,4 @@ Sridhar, G., Vergassola, M., Marques, J., Orger, M., Costa, A. C., & Wyart, C. (
 
 Check the [original repository](https://github.com/GautamSridhar/Markov_Fish) for updates.
 
-In addition, you can find working examples of the maximally-predictive Markov modelling in this [other repository](https://github.com/AntonioCCosta/maximally_predictive_states), and also a broader tutorial on quantitative approaches to animal behavior that include our modelling approach in [this other tutorial](https://github.com/oist/Physics-of-Behavior-Tutorials).
+In addition, you can find working examples of the maximally-predictive Markov modelling in this [other repository](https://github.com/AntonioCCosta/maximally_predictive_states), and also a broader tutorial on quantitative approaches to animal behavior that includes our modelling approach in [this other tutorial](https://github.com/oist/Physics-of-Behavior-Tutorials).
